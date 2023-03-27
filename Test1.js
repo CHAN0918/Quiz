@@ -1,1 +1,0 @@
-console.log("I like to learn JavaScript.")
