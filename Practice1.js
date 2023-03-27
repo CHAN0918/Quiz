@@ -14,6 +14,10 @@ console.log(data[2], typeof data[2])
 let user ={name:"Soo",faculty:"FKEKK",phone:"12345",email:"soo@utem.edu.my"}
 console.log (user.faculty)
 
+user ={name:"chan", faculty:"FKEKK", phone:{office:"123456",mobile:"654321"},email: "chan@utem.edu.my"}
+console.log(user.phone.mobile)
+console.log(user.phone.home)
+
 //parseInt
 //parseFloat
 //toString => number to String (changed to boolean)
