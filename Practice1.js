@@ -20,7 +20,7 @@ console.log(user.phone.mobile)
 console.log(user.phone.home)
 console.log(user.email)
 
-//parseInt
-//parseFloat
+//parseInt => change any string (in number) into interger
+//parseFloat => change any string (in number) into float number
 //toString => number to String (changed to boolean)
 //toString
